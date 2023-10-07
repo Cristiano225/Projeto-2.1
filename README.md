@@ -1,6 +1,6 @@
 # Treine.me 2.0
 
-Quarto projeto do curso Explorer da Rocketseat
+Projeto do curso Explorer da Rocketseat
 
 - Tecnologias utilizadas:
     - HTML
